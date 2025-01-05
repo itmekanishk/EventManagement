@@ -60,22 +60,9 @@ Email / Text message notification.
 
 ![Image description](web/screenshot.jpeg)
 
-## 6. Source:
 
-- Adapted from:
 
-UDEMY: Java Programming Bootcamp, Develop 20 Real World Projects, Java Web Application Development Course, 
 
-Learn To Build Projects Using JSP, JDBC, Servlets, Swing, Spring Boot, Hibernate
-
-- Project Name:
-Project 2: Event Management System
-
-- Created by: 
-Engineering.Org.In
-
-- Date Created:
-Last updated 11/2021
 
 - URL:
 https://www.udemy.com/course/build-real-world-java-projects-jsp-servlets-springboot/
