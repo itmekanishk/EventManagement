@@ -51,8 +51,4 @@ e. You have two choices at the "Evently" landing page:
 
 
 
-- URL:
-https://www.udemy.com/course/build-real-world-java-projects-jsp-servlets-springboot/
-# EventManagement
-# EventManagement
-# EventManagement
+
