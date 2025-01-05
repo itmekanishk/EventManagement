@@ -17,13 +17,9 @@ HTML/CSS/JavaScript, Java 11, Java Servlet, JDBC, MySQL/MySQL Workbench/MySQL Se
 
 Prerequisite: Apache NetBeans 13.0, Apache Tomcat Server 10.0, MySQL Server, MySQL Workbench (Optional ... I prefer to perform MySql operations at the command line "mysql -u root -p")
 
-1. Clone the repo.
 
-```
-https://github.com/AAdewunmi/Event-Management-System-Java.git
-```
 
-2. How to use:
+ How to use:
 
 a. Open project in NetBeans
 
