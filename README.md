@@ -46,15 +46,6 @@ e. You have two choices at the "Evently" landing page:
         - Register as new participant or 
         - Login as existing participant
 
-## 4. Nice to have:
-
-Payment gateway i.e. PayPal, Apple Pay, Google Pay etc.
-
-Email / Text message notification.
-    
-## 5. Screenshot of the landing page:
-
-![Image description](web/screenshot.jpeg)
 
 
 
